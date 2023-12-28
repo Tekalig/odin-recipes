@@ -47,6 +47,9 @@ ul{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    text-align: start;
+    margin-top: 30px;
+    text-indent: -5px;
 }
 
 li::marker{
@@ -57,4 +60,8 @@ li::marker{
 div>div:hover{
     border: 2px inset lightblue;
     transform: scale(1.1);
+}
+
+p{
+    text-indent: 5px;
 }
