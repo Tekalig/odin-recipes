@@ -24,7 +24,7 @@ img{
     object-fit: cover;
     width: 350px;
     height: 400px;
-    border-radius: 5px;
+    border-radius: 50%;
 }
 
 .information{
